@@ -149,7 +149,7 @@ body, td.teletext {
     font-smooth: never;
     -webkit-font-smoothing : none;
     color: #ffffff;
-    background: #000000;
+    background: #f0f0f0;
     line-height: 20px;
 }
 
@@ -159,11 +159,11 @@ body, td.teletext {
     -webkit-font-smoothing : none;
     color: #ffffff;
     background: #000000;
-    line-height: 13px;
+    line-height: 30px;
     text-align: left;
     white-space: pre;
     display: block;
-    font-size: 14px;
+    font-size: 30px;
     font-smooth: never;
     -webkit-font-smoothing : none;
     text-align: center;
